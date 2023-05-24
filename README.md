@@ -4,30 +4,31 @@ This is a chat application built using Redux, React, Firebase for storage, and F
 ---
 `Features`
 ---
-```
-Login and SignUp: Users can create an account or log in to the application using their credentials.
 
-Emoji Chat: Users can send messages with emojis to engage in chat conversations.
+* Login and SignUp: Users can create an account or log in to the application using their credentials.
 
-Multiple People Chat: Users can chat with multiple people simultaneously.
+* Emoji Chat: Users can send messages with emojis to engage in chat conversations.
+
+* Multiple People Chat: Users can chat with multiple people simultaneously.
 Logout: Users can securely log out of the application when they are finished.
 
-Profile Image: Users have the option to set a profile image for personalization.
-```
+* Profile Image: Users have the option to set a profile image for personalization.
+
 ---
 `Technologies Used`
+---
 
-```
-Redux`: Redux is used for state management, allowing for efficient and predictable handling of application data.
+* Redux`: Redux is used for state management, allowing for efficient and predictable handling of application data.
 
-React: The application is built using React, a popular JavaScript library for building user interfaces.
+* React: The application is built using React, a popular JavaScript library for building user interfaces.
 
-Firebase Storage: Firebase Storage is utilized for storing chat-related data, such as images or files.
+* Firebase Storage: Firebase Storage is utilized for storing chat-related data, such as images or files.
 
-Firebase Authentication: Firebase Authentication handles the user authentication process, ensuring secure access to the chat app.
-```
+* Firebase Authentication: Firebase Authentication handles the user authentication process, ensuring secure access to the chat app.
+
 ---
 `Setup and Installation`
+---
 To set up the project locally, follow these steps:
 
 * Clone the repository: git clone <repository-url>
@@ -41,7 +42,7 @@ Replace the placeholder Firebase configuration in the application code with your
 * Open the app in your browser: http://localhost:3000
 ---
 ` Usage`
-
+---
 * Once the application is up and running, users can perform the following actions:
 
 * Navigate to the login page and create a new account or log in with existing credentials.
@@ -56,7 +57,7 @@ To log out, users can click on the "Logout" button, which will securely terminat
 ---
 
 `Contributing`
-
+---
  Contributions to the chat app are welcome! If you would like to contribute, please follow these guidelines:
 
 * Fork the repository.
@@ -66,5 +67,6 @@ To log out, users can click on the "Logout" button, which will securely terminat
 * Submit a pull request describing your changes.
 
 ---
-Acknowledgements
+`Acknowledgements`
+
 We would like to thank the creators and contributors of Redux, React, and Firebase for their excellent tools and documentation that helped in building this chat app.
