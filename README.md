@@ -1,3 +1,7 @@
+
+This is a chat application built using Redux, React, Firebase for storage, and Firebase Authentication for authentication.
+
+
 # chat-app
 
 This is a chat application built using Redux, React, Firebase for storage, and Firebase Authentication for authentication.
